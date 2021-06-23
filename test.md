@@ -9,4 +9,5 @@ Herbert
 manhandle
 crippling handicap
 elderly man
-non-native
+non-native traditions
+traditionally
